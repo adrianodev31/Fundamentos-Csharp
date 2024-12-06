@@ -1,0 +1,15 @@
+C:\dev\EditorDeTextoSimples\bin\Debug\net8.0\EditorDeTextoSimples.exe
+C:\dev\EditorDeTextoSimples\bin\Debug\net8.0\EditorDeTextoSimples.deps.json
+C:\dev\EditorDeTextoSimples\bin\Debug\net8.0\EditorDeTextoSimples.runtimeconfig.json
+C:\dev\EditorDeTextoSimples\bin\Debug\net8.0\EditorDeTextoSimples.dll
+C:\dev\EditorDeTextoSimples\bin\Debug\net8.0\EditorDeTextoSimples.pdb
+C:\dev\EditorDeTextoSimples\obj\Debug\net8.0\EditorDeTextoSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\EditorDeTextoSimples\obj\Debug\net8.0\EditorDeTextoSimples.AssemblyInfoInputs.cache
+C:\dev\EditorDeTextoSimples\obj\Debug\net8.0\EditorDeTextoSimples.AssemblyInfo.cs
+C:\dev\EditorDeTextoSimples\obj\Debug\net8.0\EditorDeTextoSimples.csproj.CoreCompileInputs.cache
+C:\dev\EditorDeTextoSimples\obj\Debug\net8.0\EditorDeTextoSimples.sourcelink.json
+C:\dev\EditorDeTextoSimples\obj\Debug\net8.0\EditorDeTextoSimples.dll
+C:\dev\EditorDeTextoSimples\obj\Debug\net8.0\refint\EditorDeTextoSimples.dll
+C:\dev\EditorDeTextoSimples\obj\Debug\net8.0\EditorDeTextoSimples.pdb
+C:\dev\EditorDeTextoSimples\obj\Debug\net8.0\EditorDeTextoSimples.genruntimeconfig.cache
+C:\dev\EditorDeTextoSimples\obj\Debug\net8.0\ref\EditorDeTextoSimples.dll

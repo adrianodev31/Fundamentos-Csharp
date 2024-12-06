@@ -1,0 +1,15 @@
+C:\dev\Calculadora2\bin\Debug\net8.0\Calculadora2.exe
+C:\dev\Calculadora2\bin\Debug\net8.0\Calculadora2.deps.json
+C:\dev\Calculadora2\bin\Debug\net8.0\Calculadora2.runtimeconfig.json
+C:\dev\Calculadora2\bin\Debug\net8.0\Calculadora2.dll
+C:\dev\Calculadora2\bin\Debug\net8.0\Calculadora2.pdb
+C:\dev\Calculadora2\obj\Debug\net8.0\Calculadora2.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Calculadora2\obj\Debug\net8.0\Calculadora2.AssemblyInfoInputs.cache
+C:\dev\Calculadora2\obj\Debug\net8.0\Calculadora2.AssemblyInfo.cs
+C:\dev\Calculadora2\obj\Debug\net8.0\Calculadora2.csproj.CoreCompileInputs.cache
+C:\dev\Calculadora2\obj\Debug\net8.0\Calculadora2.sourcelink.json
+C:\dev\Calculadora2\obj\Debug\net8.0\Calculadora2.dll
+C:\dev\Calculadora2\obj\Debug\net8.0\refint\Calculadora2.dll
+C:\dev\Calculadora2\obj\Debug\net8.0\Calculadora2.pdb
+C:\dev\Calculadora2\obj\Debug\net8.0\Calculadora2.genruntimeconfig.cache
+C:\dev\Calculadora2\obj\Debug\net8.0\ref\Calculadora2.dll

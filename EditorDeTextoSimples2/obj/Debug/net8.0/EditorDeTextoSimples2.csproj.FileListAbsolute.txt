@@ -1,0 +1,15 @@
+C:\dev\EditorDeTextoSimples2\obj\Debug\net8.0\EditorDeTextoSimples2.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\EditorDeTextoSimples2\obj\Debug\net8.0\EditorDeTextoSimples2.AssemblyInfoInputs.cache
+C:\dev\EditorDeTextoSimples2\obj\Debug\net8.0\EditorDeTextoSimples2.AssemblyInfo.cs
+C:\dev\EditorDeTextoSimples2\obj\Debug\net8.0\EditorDeTextoSimples2.csproj.CoreCompileInputs.cache
+C:\dev\EditorDeTextoSimples2\obj\Debug\net8.0\EditorDeTextoSimples2.sourcelink.json
+C:\dev\EditorDeTextoSimples2\bin\Debug\net8.0\EditorDeTextoSimples2.exe
+C:\dev\EditorDeTextoSimples2\bin\Debug\net8.0\EditorDeTextoSimples2.deps.json
+C:\dev\EditorDeTextoSimples2\bin\Debug\net8.0\EditorDeTextoSimples2.runtimeconfig.json
+C:\dev\EditorDeTextoSimples2\bin\Debug\net8.0\EditorDeTextoSimples2.dll
+C:\dev\EditorDeTextoSimples2\bin\Debug\net8.0\EditorDeTextoSimples2.pdb
+C:\dev\EditorDeTextoSimples2\obj\Debug\net8.0\EditorDeTextoSimples2.dll
+C:\dev\EditorDeTextoSimples2\obj\Debug\net8.0\refint\EditorDeTextoSimples2.dll
+C:\dev\EditorDeTextoSimples2\obj\Debug\net8.0\EditorDeTextoSimples2.pdb
+C:\dev\EditorDeTextoSimples2\obj\Debug\net8.0\EditorDeTextoSimples2.genruntimeconfig.cache
+C:\dev\EditorDeTextoSimples2\obj\Debug\net8.0\ref\EditorDeTextoSimples2.dll
