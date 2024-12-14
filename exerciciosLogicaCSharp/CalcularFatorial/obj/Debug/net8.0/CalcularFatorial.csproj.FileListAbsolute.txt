@@ -1,0 +1,15 @@
+C:\dev\exerciciosLogicaCSharp\CalcularFatorial\bin\Debug\net8.0\CalcularFatorial.exe
+C:\dev\exerciciosLogicaCSharp\CalcularFatorial\bin\Debug\net8.0\CalcularFatorial.deps.json
+C:\dev\exerciciosLogicaCSharp\CalcularFatorial\bin\Debug\net8.0\CalcularFatorial.runtimeconfig.json
+C:\dev\exerciciosLogicaCSharp\CalcularFatorial\bin\Debug\net8.0\CalcularFatorial.dll
+C:\dev\exerciciosLogicaCSharp\CalcularFatorial\bin\Debug\net8.0\CalcularFatorial.pdb
+C:\dev\exerciciosLogicaCSharp\CalcularFatorial\obj\Debug\net8.0\CalcularFatorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\exerciciosLogicaCSharp\CalcularFatorial\obj\Debug\net8.0\CalcularFatorial.AssemblyInfoInputs.cache
+C:\dev\exerciciosLogicaCSharp\CalcularFatorial\obj\Debug\net8.0\CalcularFatorial.AssemblyInfo.cs
+C:\dev\exerciciosLogicaCSharp\CalcularFatorial\obj\Debug\net8.0\CalcularFatorial.csproj.CoreCompileInputs.cache
+C:\dev\exerciciosLogicaCSharp\CalcularFatorial\obj\Debug\net8.0\CalcularFatorial.sourcelink.json
+C:\dev\exerciciosLogicaCSharp\CalcularFatorial\obj\Debug\net8.0\CalcularFatorial.dll
+C:\dev\exerciciosLogicaCSharp\CalcularFatorial\obj\Debug\net8.0\refint\CalcularFatorial.dll
+C:\dev\exerciciosLogicaCSharp\CalcularFatorial\obj\Debug\net8.0\CalcularFatorial.pdb
+C:\dev\exerciciosLogicaCSharp\CalcularFatorial\obj\Debug\net8.0\CalcularFatorial.genruntimeconfig.cache
+C:\dev\exerciciosLogicaCSharp\CalcularFatorial\obj\Debug\net8.0\ref\CalcularFatorial.dll

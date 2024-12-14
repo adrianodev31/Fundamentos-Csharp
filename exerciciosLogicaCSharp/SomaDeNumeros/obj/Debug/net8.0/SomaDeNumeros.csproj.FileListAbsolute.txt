@@ -1,0 +1,15 @@
+C:\dev\exerciciosLogicaCSharp\SomaDeNumeros\bin\Debug\net8.0\SomaDeNumeros.exe
+C:\dev\exerciciosLogicaCSharp\SomaDeNumeros\bin\Debug\net8.0\SomaDeNumeros.deps.json
+C:\dev\exerciciosLogicaCSharp\SomaDeNumeros\bin\Debug\net8.0\SomaDeNumeros.runtimeconfig.json
+C:\dev\exerciciosLogicaCSharp\SomaDeNumeros\bin\Debug\net8.0\SomaDeNumeros.dll
+C:\dev\exerciciosLogicaCSharp\SomaDeNumeros\bin\Debug\net8.0\SomaDeNumeros.pdb
+C:\dev\exerciciosLogicaCSharp\SomaDeNumeros\obj\Debug\net8.0\SomaDeNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\exerciciosLogicaCSharp\SomaDeNumeros\obj\Debug\net8.0\SomaDeNumeros.AssemblyInfoInputs.cache
+C:\dev\exerciciosLogicaCSharp\SomaDeNumeros\obj\Debug\net8.0\SomaDeNumeros.AssemblyInfo.cs
+C:\dev\exerciciosLogicaCSharp\SomaDeNumeros\obj\Debug\net8.0\SomaDeNumeros.csproj.CoreCompileInputs.cache
+C:\dev\exerciciosLogicaCSharp\SomaDeNumeros\obj\Debug\net8.0\SomaDeNumeros.sourcelink.json
+C:\dev\exerciciosLogicaCSharp\SomaDeNumeros\obj\Debug\net8.0\SomaDeNumeros.dll
+C:\dev\exerciciosLogicaCSharp\SomaDeNumeros\obj\Debug\net8.0\refint\SomaDeNumeros.dll
+C:\dev\exerciciosLogicaCSharp\SomaDeNumeros\obj\Debug\net8.0\SomaDeNumeros.pdb
+C:\dev\exerciciosLogicaCSharp\SomaDeNumeros\obj\Debug\net8.0\SomaDeNumeros.genruntimeconfig.cache
+C:\dev\exerciciosLogicaCSharp\SomaDeNumeros\obj\Debug\net8.0\ref\SomaDeNumeros.dll

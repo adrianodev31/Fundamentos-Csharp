@@ -1,0 +1,15 @@
+C:\dev\exerciciosLogicaCSharp\ParOuImpar\bin\Debug\net8.0\ParOuImpar.exe
+C:\dev\exerciciosLogicaCSharp\ParOuImpar\bin\Debug\net8.0\ParOuImpar.deps.json
+C:\dev\exerciciosLogicaCSharp\ParOuImpar\bin\Debug\net8.0\ParOuImpar.runtimeconfig.json
+C:\dev\exerciciosLogicaCSharp\ParOuImpar\bin\Debug\net8.0\ParOuImpar.dll
+C:\dev\exerciciosLogicaCSharp\ParOuImpar\bin\Debug\net8.0\ParOuImpar.pdb
+C:\dev\exerciciosLogicaCSharp\ParOuImpar\obj\Debug\net8.0\ParOuImpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\exerciciosLogicaCSharp\ParOuImpar\obj\Debug\net8.0\ParOuImpar.AssemblyInfoInputs.cache
+C:\dev\exerciciosLogicaCSharp\ParOuImpar\obj\Debug\net8.0\ParOuImpar.AssemblyInfo.cs
+C:\dev\exerciciosLogicaCSharp\ParOuImpar\obj\Debug\net8.0\ParOuImpar.csproj.CoreCompileInputs.cache
+C:\dev\exerciciosLogicaCSharp\ParOuImpar\obj\Debug\net8.0\ParOuImpar.sourcelink.json
+C:\dev\exerciciosLogicaCSharp\ParOuImpar\obj\Debug\net8.0\ParOuImpar.dll
+C:\dev\exerciciosLogicaCSharp\ParOuImpar\obj\Debug\net8.0\refint\ParOuImpar.dll
+C:\dev\exerciciosLogicaCSharp\ParOuImpar\obj\Debug\net8.0\ParOuImpar.pdb
+C:\dev\exerciciosLogicaCSharp\ParOuImpar\obj\Debug\net8.0\ParOuImpar.genruntimeconfig.cache
+C:\dev\exerciciosLogicaCSharp\ParOuImpar\obj\Debug\net8.0\ref\ParOuImpar.dll

@@ -1,0 +1,15 @@
+C:\dev\exerciciosLogicaCSharp\NumeroMaiorEMenor\bin\Debug\net8.0\NumeroMaiorEMenor.exe
+C:\dev\exerciciosLogicaCSharp\NumeroMaiorEMenor\bin\Debug\net8.0\NumeroMaiorEMenor.deps.json
+C:\dev\exerciciosLogicaCSharp\NumeroMaiorEMenor\bin\Debug\net8.0\NumeroMaiorEMenor.runtimeconfig.json
+C:\dev\exerciciosLogicaCSharp\NumeroMaiorEMenor\bin\Debug\net8.0\NumeroMaiorEMenor.dll
+C:\dev\exerciciosLogicaCSharp\NumeroMaiorEMenor\bin\Debug\net8.0\NumeroMaiorEMenor.pdb
+C:\dev\exerciciosLogicaCSharp\NumeroMaiorEMenor\obj\Debug\net8.0\NumeroMaiorEMenor.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\exerciciosLogicaCSharp\NumeroMaiorEMenor\obj\Debug\net8.0\NumeroMaiorEMenor.AssemblyInfoInputs.cache
+C:\dev\exerciciosLogicaCSharp\NumeroMaiorEMenor\obj\Debug\net8.0\NumeroMaiorEMenor.AssemblyInfo.cs
+C:\dev\exerciciosLogicaCSharp\NumeroMaiorEMenor\obj\Debug\net8.0\NumeroMaiorEMenor.csproj.CoreCompileInputs.cache
+C:\dev\exerciciosLogicaCSharp\NumeroMaiorEMenor\obj\Debug\net8.0\NumeroMaiorEMenor.sourcelink.json
+C:\dev\exerciciosLogicaCSharp\NumeroMaiorEMenor\obj\Debug\net8.0\NumeroMaiorEMenor.dll
+C:\dev\exerciciosLogicaCSharp\NumeroMaiorEMenor\obj\Debug\net8.0\refint\NumeroMaiorEMenor.dll
+C:\dev\exerciciosLogicaCSharp\NumeroMaiorEMenor\obj\Debug\net8.0\NumeroMaiorEMenor.pdb
+C:\dev\exerciciosLogicaCSharp\NumeroMaiorEMenor\obj\Debug\net8.0\NumeroMaiorEMenor.genruntimeconfig.cache
+C:\dev\exerciciosLogicaCSharp\NumeroMaiorEMenor\obj\Debug\net8.0\ref\NumeroMaiorEMenor.dll

@@ -1,0 +1,15 @@
+C:\dev\exerciciosLogicaCSharp\taboadaDeUmNumero\bin\Debug\net8.0\taboadaDeUmNumero.exe
+C:\dev\exerciciosLogicaCSharp\taboadaDeUmNumero\bin\Debug\net8.0\taboadaDeUmNumero.deps.json
+C:\dev\exerciciosLogicaCSharp\taboadaDeUmNumero\bin\Debug\net8.0\taboadaDeUmNumero.runtimeconfig.json
+C:\dev\exerciciosLogicaCSharp\taboadaDeUmNumero\bin\Debug\net8.0\taboadaDeUmNumero.dll
+C:\dev\exerciciosLogicaCSharp\taboadaDeUmNumero\bin\Debug\net8.0\taboadaDeUmNumero.pdb
+C:\dev\exerciciosLogicaCSharp\taboadaDeUmNumero\obj\Debug\net8.0\taboadaDeUmNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\exerciciosLogicaCSharp\taboadaDeUmNumero\obj\Debug\net8.0\taboadaDeUmNumero.AssemblyInfoInputs.cache
+C:\dev\exerciciosLogicaCSharp\taboadaDeUmNumero\obj\Debug\net8.0\taboadaDeUmNumero.AssemblyInfo.cs
+C:\dev\exerciciosLogicaCSharp\taboadaDeUmNumero\obj\Debug\net8.0\taboadaDeUmNumero.csproj.CoreCompileInputs.cache
+C:\dev\exerciciosLogicaCSharp\taboadaDeUmNumero\obj\Debug\net8.0\taboadaDeUmNumero.sourcelink.json
+C:\dev\exerciciosLogicaCSharp\taboadaDeUmNumero\obj\Debug\net8.0\taboadaDeUmNumero.dll
+C:\dev\exerciciosLogicaCSharp\taboadaDeUmNumero\obj\Debug\net8.0\refint\taboadaDeUmNumero.dll
+C:\dev\exerciciosLogicaCSharp\taboadaDeUmNumero\obj\Debug\net8.0\taboadaDeUmNumero.pdb
+C:\dev\exerciciosLogicaCSharp\taboadaDeUmNumero\obj\Debug\net8.0\taboadaDeUmNumero.genruntimeconfig.cache
+C:\dev\exerciciosLogicaCSharp\taboadaDeUmNumero\obj\Debug\net8.0\ref\taboadaDeUmNumero.dll

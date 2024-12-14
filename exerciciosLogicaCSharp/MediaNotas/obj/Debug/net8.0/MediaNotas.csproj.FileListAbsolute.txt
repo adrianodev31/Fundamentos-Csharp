@@ -1,0 +1,15 @@
+C:\dev\exerciciosLogicaCSharp\MediaNotas\bin\Debug\net8.0\MediaNotas.exe
+C:\dev\exerciciosLogicaCSharp\MediaNotas\bin\Debug\net8.0\MediaNotas.deps.json
+C:\dev\exerciciosLogicaCSharp\MediaNotas\bin\Debug\net8.0\MediaNotas.runtimeconfig.json
+C:\dev\exerciciosLogicaCSharp\MediaNotas\bin\Debug\net8.0\MediaNotas.dll
+C:\dev\exerciciosLogicaCSharp\MediaNotas\bin\Debug\net8.0\MediaNotas.pdb
+C:\dev\exerciciosLogicaCSharp\MediaNotas\obj\Debug\net8.0\MediaNotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\exerciciosLogicaCSharp\MediaNotas\obj\Debug\net8.0\MediaNotas.AssemblyInfoInputs.cache
+C:\dev\exerciciosLogicaCSharp\MediaNotas\obj\Debug\net8.0\MediaNotas.AssemblyInfo.cs
+C:\dev\exerciciosLogicaCSharp\MediaNotas\obj\Debug\net8.0\MediaNotas.csproj.CoreCompileInputs.cache
+C:\dev\exerciciosLogicaCSharp\MediaNotas\obj\Debug\net8.0\MediaNotas.sourcelink.json
+C:\dev\exerciciosLogicaCSharp\MediaNotas\obj\Debug\net8.0\MediaNotas.dll
+C:\dev\exerciciosLogicaCSharp\MediaNotas\obj\Debug\net8.0\refint\MediaNotas.dll
+C:\dev\exerciciosLogicaCSharp\MediaNotas\obj\Debug\net8.0\MediaNotas.pdb
+C:\dev\exerciciosLogicaCSharp\MediaNotas\obj\Debug\net8.0\MediaNotas.genruntimeconfig.cache
+C:\dev\exerciciosLogicaCSharp\MediaNotas\obj\Debug\net8.0\ref\MediaNotas.dll
